@@ -1,3 +1,5 @@
+// https://www.interviewbit.com/problems/maxspprod/
+
 #define ll long long
 int Solution::maxSpecialProduct (vector< int >& A) {
 	ll mod = 1e9 + 7;
